@@ -18,6 +18,7 @@ project:
   # keywords: []
   # authors: []
   github: https://github.com/eds-book/eds-book.github.io
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   plugins:
   - type: executable
     path: ../src/gallery.py
