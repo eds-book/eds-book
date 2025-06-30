@@ -22,7 +22,8 @@ project:
     - collaboration
     - community
     - publication
-  # authors: []
+  authors:
+    - name: The Environmental Data Science book Community
   thumbnail: images/welcome.jpg
   requirements:
     - requirements.txt
