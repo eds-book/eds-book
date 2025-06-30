@@ -133,11 +133,11 @@ EDS book supports the community promoting or integrating the resource in new ide
 ### Publications
 EDS book has been introduced and published in peer-reviewed journals and media.
 
-| Venue                         | Date    | Authors                                                                    | Type              | Title                                                                                                                                                                |
-|-------------------------------|---------|----------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Venue                         | Date    | Authors                                                                    | Type             | Title                                                                                                                                                                |
+|-------------------------------|---------|----------------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Environmental Data Science    | 2025-01 | Alejandro Coca-Castro (lead author), Anne Fouilloux, Scott Hosking, et al. | Perspective paper | [Improving the reproducibility in geoscientific papers: lessonslearned from a Hackathon in climate science](https://doi.org/10.1017/eds.2024.35) |
-| Turing Blog                   | 2023-10 | Alejandro Coca-Castro                                                      | Blog post         | [The importance of reproducibility in environmental science](https://www.turing.ac.uk/blog/importance-reproducibility-environmental-science) |
-| Research Ideas and Outcomes   | 2023-09 | Anne Fouilloux (lead author), Alejandro Coca-Castro, et al.             | Research papaer   | [FAIR Research Objects for realising Open Science with the EOSC project RELIANCE](https://doi.org/10.3897/rio.9.e108765) |
+| Turing Blog                   | 2023-10 | Alejandro Coca-Castro                                                      | Blog post        | [The importance of reproducibility in environmental science](https://www.turing.ac.uk/blog/importance-reproducibility-environmental-science) |
+| Research Ideas and Outcomes   | 2023-09 | Anne Fouilloux (lead author), Alejandro Coca-Castro, et al.             | Research paper   | [FAIR Research Objects for realising Open Science with the EOSC project RELIANCE](https://doi.org/10.3897/rio.9.e108765) |
 
 ### Presentations
 
