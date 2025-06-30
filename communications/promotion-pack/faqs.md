@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-## How can I get involved in _The Environmental DS community_?
+## How can I get involved in the _EDS book community_?
 - There are multiple pathways to get involved.
 The project is maintained and developed via a public [GitHub repository](https://github.com/eds-book/eds-book).
 You can help review the contributions added to the project through currently [open pull requests](https://github.com/eds-book/eds-book/pulls).
