@@ -122,7 +122,15 @@ RoHub allows tracking all research life cycle and derivative work of EDS book no
 
 For more about RoHub, see in https://reliance.rohub.org/.
 
-# Publications
+## Outreach
+
+:::{note} 🎤 Do you have a presentation or publication to add?
+:icon: false
+
+EDS book supports the community promoting or integrating the resource in new ideas. Please [visit our section of communications](https://github.com/eds-book/eds-book/tree/main/communications/promotion-pack) for accessing some resources to promote EDS book at external events and conferences.
+...
+
+### Publications
 EDS book has been introduced and published in peer-reviewed journals and media.
 
 | Venue                         | Date    | Authors                                                                    | Type              | Title                                                                                                                                                                |
@@ -131,7 +139,7 @@ EDS book has been introduced and published in peer-reviewed journals and media.
 | Turing Blog                   | 2023-10 | Alejandro Coca-Castro                                                      | Blog post         | [The importance of reproducibility in environmental science](https://www.turing.ac.uk/blog/importance-reproducibility-environmental-science) |
 | Research Ideas and Outcomes   | 2023-09 | Anne Fouilloux (lead author), Alejandro Coca-Castro, et al.             | Research papaer   | [FAIR Research Objects for realising Open Science with the EOSC project RELIANCE](https://doi.org/10.3897/rio.9.e108765) |
 
-# Presentations
+### Presentations
 
 EDS book has been presented at several events, including:
 
@@ -156,9 +164,3 @@ EDS book has been presented at several events, including:
 | Conference on Environmental Data Science                             | 2022-07 | Alejandro Coca-Castro                  | abstract  | [Environmental Data Science Book: a community-driven resource showcasing open-source and reproducible Environmental science](https://wp.lancs.ac.uk/ceds/abstracts/abstracts-6th-july-22/#castro)                                     |
 | EGU22                                                                | 2022-05 | Alejandro Coca-Castro                  | abstract  | [Environmental Data Science Book: a community-driven resource showcasing open-source Environmental science](https://doi.org/10.5194/egusphere-egu22-3739)                                     |
 | OLS Cohort-4 Graduation Ceremony                                     | 2022-01 | Alejandro Coca-Castro                  | slides    | [Environmental Data Science Book: a community-driven online resource for publishing and improving scientific software practises in environmental science](https://doi.org/10.5281/zenodo.5884944)                                    |
-
-:::{note} 🎤 Do you have a presentation or publication to add?
-:icon: false
-
-EDS book supports the community promoting or integrating the resource in new ideas. Please [visit our section of communications](https://github.com/eds-book/eds-book/tree/main/communications/promotion-pack) for accessing some resources to promote EDS book at external events and conferences.
-...
