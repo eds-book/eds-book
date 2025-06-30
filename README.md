@@ -1,4 +1,4 @@
-<img src="book/_static/edsbook_logo-black.png" width="180" align="Right" /></a>
+<img src="book/_static/edsbook_logo-black.png" width="120" align="Right" /></a>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors-)
@@ -96,16 +96,19 @@ We welcome and recognize all contributions. You can see a list of current contri
 
 ## Acknowledgment 
 
-This work was supported by Wave 1 of The UKRI Strategic Priorities Fund under the EPSRC Grant EP/W006022/1, particularly the Environment & Sustainability theme within that grant & The Alan Turing Institute.
+This work was supported by: 
+* Wave 1 of The UKRI Strategic Priorities Fund under the EPSRC Grant EP/T001569/1 and EPSRC Grant EP/W006022/1, particularly the “AI for Science” theme within those grants & The Alan Turing Institute.
+* EPSRC Grant EP/Y028880/1, A national UK programme in AI and digital twins to address the biodiversity and climate crisis, particularly the “Foster an open international environmental data science community” workstream led by The Alan Turing Institute. 
 
-The project also thanks the [OLS-4 training programme](https://openlifesci.org/ols-4/projects-participants/) team, cohort and in special, Delphine Lariviere [Delphine-L](https://github.com/Delphine-L) (mentor) for all their valuable knowledge, discussions and feedback toward a common goal **Open Science for All**. 
+From July 2024, the project is unfunded and is being maintained by the community.
 
 ## Credits
 
-This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book). 
 The individual notebooks repositories are hosted at the [eds-book](https://github.com/eds-book) organisation. 
 The **How to run** section in the `README` of each notebook repository is adapted from the [Project Pythia Cookbook](https://cookbooks.projectpythia.org/) project. 
 The workflow actions to generate the rendered version of notebooks were adapted from [2i2c’s hub-user-image-template](https://github.com/2i2c-org/hub-user-image-template) released under BSD-3-Clause license.    
 
 We also acknowledge the template of `README`, `LICENSE` and `PULL_REQUEST_TEMPLATE` provided by [the Turing Way project](https://github.com/alan-turing-institute/the-turing-way). 
 Other templates adapted include the review checklist/criteria templates provided by [Turing Data Stories](https://github.com/alan-turing-institute/TuringDataStories/blob/main/.github/ISSUE_TEMPLATE/review_template.md) and [SciPy Proceedings](https://github.com/scipy-conference/scipy_proceedings/blob/632099a7e62d192a5d66156dc70547fd9f35cb81/review_criteria.md).
+
+The project also thanks the [OLS-4 training programme](https://openlifesci.org/ols-4/projects-participants/) team, cohort and in special, Delphine Lariviere [Delphine-L](https://github.com/Delphine-L) (mentor) for all their valuable knowledge, discussions and feedback.
