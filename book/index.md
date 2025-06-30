@@ -34,7 +34,7 @@ Every little bit helps, and credit will always be given.
 
 For our notebooks[^license], you can contribute as an [authors](#pb-guidelines-authors), [editor](#pb-guidelines-editors), [editor-in-chief](#pb-guidelines-eic), [reviewer](#pb-guidelines-reviewers), or simply a [community](#pb-guidelines-community) member.
 
-Read our [Contributor's Guide](https://github.com/eds-book/eds-book.github.io/blob/main/CONTRIBUTING.md) for further details on other types of contributions and our [Code of Conduct](https://github.com/eds-book/eds-book.github.io/blob/main/CODE_OF_CONDUCT.md) for expected and unacceptable behaviours.
+Read our [Contributor's Guide](https://github.com/eds-book/eds-book/blob/main/CONTRIBUTING.md) for further details on other types of contributions and our [Code of Conduct](https://github.com/eds-book/eds-book/blob/main/CODE_OF_CONDUCT.md) for expected and unacceptable behaviours.
 
 ## Getting Started
 Here’s some useful information to get you started:
@@ -99,4 +99,4 @@ Gaining this hands-on experience whilst learning about interesting environmental
 To cite or read more references about the EDS book project and related notebooks, see [](./cite.md).
 
 > 
-[^license]: EDS book notebooks are free under an [OSI-approved MIT license](https://github.com/eds-book/eds-book.github.io/blob/main/LICENSE-CODE).
+[^license]: EDS book notebooks are free under an [OSI-approved MIT license](https://github.com/eds-book/eds-book/blob/main/LICENSE-CODE).
