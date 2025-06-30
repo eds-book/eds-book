@@ -156,3 +156,9 @@ EDS book has been presented at several events, including:
 | Conference on Environmental Data Science                             | 2022-07 | Alejandro Coca-Castro                  | abstract  | [Environmental Data Science Book: a community-driven resource showcasing open-source and reproducible Environmental science](https://wp.lancs.ac.uk/ceds/abstracts/abstracts-6th-july-22/#castro)                                     |
 | EGU22                                                                | 2022-05 | Alejandro Coca-Castro                  | abstract  | [Environmental Data Science Book: a community-driven resource showcasing open-source Environmental science](https://doi.org/10.5194/egusphere-egu22-3739)                                     |
 | OLS Cohort-4 Graduation Ceremony                                     | 2022-01 | Alejandro Coca-Castro                  | slides    | [Environmental Data Science Book: a community-driven online resource for publishing and improving scientific software practises in environmental science](https://doi.org/10.5281/zenodo.5884944)                                    |
+
+:::{note} 🎤 Do you have a presentation or publication to add?
+:icon: false
+
+EDS book supports the community promoting or integrating the resource in new ideas. Please [visit our section of communications](https://github.com/eds-book/eds-book/tree/main/communications/promotion-pack) for accessing some resources to promote EDS book at external events and conferences.
+...
