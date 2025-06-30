@@ -1,13 +1,17 @@
 cff-version: 1.2.0
-message: "To reference the latest version of The Environmental Data Science Book, please cite it as below."
+message: Please cite the following works when using this project.
+abstract: >-
+  Environmental Data Science book is a computational notebook community for open
+  environmental data science.
+title: Environmental Data Science book
 authors:
-  - name: "The Environmental Data Science book Community"
-title: "Environmental Data Science book: A computational notebook community for open environmental data science."
-version: v0.3.5
+  - name: The Environmental Data Science book Community
 identifiers:
-  - description: The concept DOI for the collection containing all versions of the Citation File Format.
+  - description: >-
+      The concept DOI for the collection containing all versions of the Citation
+      File Format.
     type: doi
-    value: "10.5281/zenodo.5918931"
+    value: 10.5281/zenodo.5918931
 keywords:
   - scientific software practices
   - environmental informatics
@@ -16,12 +20,8 @@ keywords:
   - collaboration
   - community
   - publication
-references:
-  - type: book
-    authors:
-      - family-names: All contributors
-        given-names: The Environmental Data Science Book Community
-        affiliation: "The Alan Turing Institute, London, UK"
-        email: "environmental.ds.book@gmail.com"
-        website: "https://github.com/eds-book/eds-book.github.io/"
-    title: The Environmental Data Science book Project
+license: MIT
+license-url: https://opensource.org/license/MIT
+repository: https://github.com/eds-book/eds-book
+type: software
+version: v0.3.5
