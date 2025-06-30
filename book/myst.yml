@@ -79,6 +79,8 @@ project:
     - format: cff
       type: software
       version: v0.3.5
+      license: MIT
+      license-url: https://opensource.org/license/MIT
       identifiers:
         - description: "The concept DOI for the collection containing all versions of the Citation File Format."
           type: doi
