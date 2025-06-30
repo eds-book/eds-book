@@ -4,10 +4,9 @@ extends:
 - https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook.yml
 project:
   id: 5045e1d4-2bbc-4dca-bde5-447c5c23801d
-  title: Welcome
-  license:
-    code: MIT
-    content: CC-BY-4.0
+  title: Environmental Data Science book
+  short_title: EDS book
+  abstract: Environmental Data Science book is a computational notebook community for open environmental data science.
   abbreviations:
     CoC: Code of Conduct
     EiC: Editor-in-Chief
@@ -15,9 +14,26 @@ project:
     NBI: Notebook Idea
     PR: Pull Request
   # description:
-  # keywords: []
-  # authors: []
+  keywords:
+    - scientific software practices
+    - environmental informatics
+    - reproducibility
+    - transparent
+    - collaboration
+    - community
+    - publication
+  authors:
+    - name: The Environmental Data Science book Community
+  copyright: 2021-2025
+  thumbnail: images/welcome.jpg
+  requirements:
+    - requirements.txt
+  doi: 10.5281/zenodo.5918931
   github: https://github.com/eds-book/eds-book
+  open_access: true
+  license:
+    content: CC-BY-4.0
+    code: MIT
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   plugins:
   - type: executable
@@ -59,6 +75,18 @@ project:
       - name: A national UK programme in AI and digital twins to address the biodiversity and climate crisis, particularly the “Foster an open international environmental data science community” workstream led by The Alan Turing Institute.
       investigators:
       - name: Alejandro Coca-Castro
+  exports:
+    - format: cff
+      type: software
+      version: v0.3.5
+      license: MIT
+      license-url: https://opensource.org/license/MIT
+      identifiers:
+        - description: "The concept DOI for the collection containing all versions of the Citation File Format."
+          type: doi
+          value: "10.5281/zenodo.5918931"
+  bibliography:
+    - _bibliography/references.bib
 
 site:
   template: book-theme
