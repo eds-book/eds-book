@@ -5,7 +5,7 @@ abstract: >-
   environmental data science.
 title: Environmental Data Science book
 authors:
-  - name: The Environmental Data Science book Community
+  - names: EDS book community
 identifiers:
   - description: >-
       The concept DOI for the collection containing all versions of the Citation
