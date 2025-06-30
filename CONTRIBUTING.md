@@ -57,13 +57,11 @@ There are many ways to get in touch with _EDS book_ team!
 
 ### Receiving Updates
 
-- [@eds_book](https://twitter.com/eds_book) on Twitter and [fosstodon.org/@eds_book](https://fosstodon.org/@eds_book) in Mastodon
+- [@eds_book](https://bsky.app/profile/eds-book.bsky.social) on Bluesky, [fosstodon.org/@eds_book](https://fosstodon.org/@eds_book) in Mastodon and [edsbook](https://www.linkedin.com/company/edsbook) in LinkedIn.
     - Follow us for regular updates
 
 ### Coworking and Real-Time Collaboration
 
-- **Bimonthly Collaboration Cafe:** We shared-out recent progress, achievements or events at _The Turing Way_ [Collaboration Cafes](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html). At least one of core EDS book members (as described in the [Ways of Working document](https://github.com/eds-book/eds-book/blob/main/ways_of_working.md)) will be attending the collaboration cafe to onboard or discuss relevant topics within _EDS book_ and _The Turing Way_ communities. Members of both communities are also welcome to join to [#environmental-sustainability](https://theturingway.slack.com/archives/C04RCMAEPUZ)) in _The Turing Way_ Slack, a dedicated channel for discussing broadly relevant topics aligned to Open Research in Environment & Sustainability.
-    - Shared notes with joining links: https://hackmd.io/@turingway/collaboration-cafe.
 - **Monthly Co-working sessions:** Every Second Friday (16:00 - 17:00 London time). This is a synchronous collaborative space to either discuss your ideas or quietly work in an accountable space with _EDS book_ team members. 
     - Shared notes with joining links: https://hackmd.io/@eds-book/coworking-call/.
 
@@ -196,7 +194,7 @@ You can build and host the book website locally. The steps are:
 
    ```
    cd ./book/website
-   jupyter-book build .
+   jupyter-book build start
    ```
 
 ## Representing _EDS book_
