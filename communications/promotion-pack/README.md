@@ -1,4 +1,4 @@
-# Resources for representing Environmental Data Science book at external events
+# Resources for representing EDS book at external events
 
 ## What is The Environmental Data Science book?
 - A book: [https://edsbook.org/welcome.html](https://edsbook.org/welcome.html)
@@ -6,7 +6,7 @@
 - A community: *EDS book* is an open-source collaborative project that involves and supports its members of diverse skills and backgrounds to ensure that data science is accessible and useful for everyone interested in Environmental sciences. 
 
 ## Who are the community members? 
-- Project lead and co-lead: Dr Alejandro Coca-Castro (lead), Postdoctoral Research Associate, Data Science for Science and Humanities research programme at The Alan Turing Institute.
+- Project lead: Dr Alejandro Coca-Castro (lead), Research Fellow, Environment & Sustainability Grand Challenge at The Alan Turing Institute.
 - Contributors: who collaborate with ideas and/or developing online material for EDS book.
 - Users: Some readers/users around the globe.
 
