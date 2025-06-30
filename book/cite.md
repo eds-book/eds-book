@@ -14,4 +14,4 @@ We suggest citing individual executable notebooks by linking directly to their z
 
 [![Cite this using DOI](https://zenodo.org/badge/493600192.svg)](https://doi.org/10.5281/zenodo.8308843)
 
-> Mifdal, J., & Carmo, R. (2025). Detecting floating objects using deep learning and Sentinel-2 imagery (Jupyter Notebook) published in the Environmental Data Science book (v2025.6.0). Zenodo. https://doi.org/10.5281/zenodo.15706997
+> `Mifdal, J., & Carmo, R. (2025). Detecting floating objects using deep learning and Sentinel-2 imagery (Jupyter Notebook) published in the Environmental Data Science book (v2025.6.0). Zenodo. https://doi.org/10.5281/zenodo.15706997`.
