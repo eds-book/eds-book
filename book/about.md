@@ -122,7 +122,7 @@ RoHub allows tracking all research life cycle and derivative work of EDS book no
 
 For more about RoHub, see in https://reliance.rohub.org/.
 
-## Outreach
+# Outreach
 
 :::{note} 🎤 Do you have a presentation or publication to add?
 :icon: false
@@ -130,7 +130,7 @@ For more about RoHub, see in https://reliance.rohub.org/.
 EDS book supports the community promoting or integrating the resource in new ideas. Please [visit our section of communications](https://github.com/eds-book/eds-book/tree/main/communications/promotion-pack) for accessing some resources to promote EDS book at external events and conferences.
 ...
 
-### Publications
+## Publications
 EDS book has been introduced and published in peer-reviewed journals and media.
 
 | Venue                         | Date    | Authors                                                                    | Type             | Title                                                                                                                                                                |
@@ -139,7 +139,7 @@ EDS book has been introduced and published in peer-reviewed journals and media.
 | Turing Blog                   | 2023-10 | Alejandro Coca-Castro                                                      | Blog post        | [The importance of reproducibility in environmental science](https://www.turing.ac.uk/blog/importance-reproducibility-environmental-science) |
 | Research Ideas and Outcomes   | 2023-09 | Anne Fouilloux (lead author), Alejandro Coca-Castro, et al.             | Research paper   | [FAIR Research Objects for realising Open Science with the EOSC project RELIANCE](https://doi.org/10.3897/rio.9.e108765) |
 
-### Presentations
+## Presentations
 
 EDS book has been presented at several events, including:
 
