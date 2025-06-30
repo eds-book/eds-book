@@ -24,6 +24,7 @@ project:
     - publication
   authors:
     - name: The Environmental Data Science book Community
+  copyright: 2021-2025
   thumbnail: images/welcome.jpg
   requirements:
     - requirements.txt
