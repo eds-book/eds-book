@@ -37,10 +37,10 @@ All EDS book project members commit to
 
 ## Communication
 
-You can reach out to all members by tagging them on GitHub issues or Pull Requests or on [Gitter](https://matrix.to/#/#eds-book:gitter.im).
+You can reach out to all members by tagging them on GitHub issues or Pull Requests.
 
 You can reach the lead investigators of the project through their preferred way of communication:
-You can mention Alejandro Coca-Castro (@acocac) and Scott Hosking (@scotthosking) on a Github issue or pull request, or tag in Gitter.
+You can mention Alejandro Coca-Castro (@acocac) on a Github issue or pull request.
 In addition, you can reach _EDS book_ by email (managed by Alejandro, PI): [environmental.ds.book@gmail.com](mailto:environmental.ds.book@gmail.com).
 You can also contact Alejandro by emailing [acoca@turing.ac.uk](mailto:acoca@turing.ac.uk).
 
@@ -54,7 +54,7 @@ Don't be afraid to nudge if they've not replied after a few days! :sparkling_hea
 
 Project members will:
 - monitor open issues and Pull Requests on the project's GitHub repository to identify if feedback, comment or connections can help address any concern or build on any suggested ideas/features.
-- whenever possible, post about the issues and Pull Requests in public forums (Gitter, Twitter, Mastodon) to facilitate participation from new members in the community.
+- whenever possible, post about the issues and Pull Requests in public forums (BlueSky, Mastodon and LinkedIn) to facilitate participation from new members in the community.
 - review or assign a reviewer to open Pull Requests for review. This should be taken as an opportunity to connect contributors with specific interests, availability or technical skills that could be useful for the ongoing work.
 - connect issues and Pull Requests where possible (for example, by mentioning 'Fixes #[issue number]' in the Pull Request description). By adding "closes #issue" or [something similar](https://help.github.com/articles/closing-issues-using-keywords/) in a comment on a pull request, merging the pull request will close the issue automatically.
 - once completed, approve Pull Requests (for the contributors to merge them) and/or close issues immediately (if not linked to specific Pull Request) with a comment describing how it was addressed.
