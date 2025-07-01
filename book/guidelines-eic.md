@@ -29,8 +29,16 @@ Before moving to PRE-REVIEW, EiC open a new issue `Preparation` in the notebook 
 ```{include} templates/editor-in-chief/eic-preparation-checklist.md
 ```
 
+The `myst.yml` file should be created in the root of the notebook repository, and some fields should be filled.
+
+```{include} templates/editor-in-chief/eic-myst-config.md
+```
+
 ## Pre-review
 EiC open a PRE-REVIEW issue containing all relevant information of the notebook including a link to the notebook idea issue.
+
+```{include} templates/editor-in-chief/eic-prereview-checklist.md
+```
 
 EiC assign an editor to moderate the review and find reviewers.
 
@@ -44,6 +52,9 @@ Once reviewers agreed on the revision, EiC open a REVIEW issue.
 ## Review
 The [REVIEW issue](https://github.com/eds-book/notebooks-reviews/issues/new?assignees=&labels=review&projects=&template=notebook-review.md&title=%5BREVIEW%5D) aims to be a space where editor will moderate timings and conversation between authors and reviewers.
 
+```{include} templates/editor-in-chief/eic-review-checklist.md
+```
+
 To facilitate the discussion, EiC creates a new branch `review` with a custom message at the first markdown cell indicating "Authors and Reviewers. This is the notebook version for review. We will remove this markdown cell after the peer-review." 
 Then EiC commit and push changes to create a PR in the notebook repository. 
 The PR will trigger ReviewNB, a third-party plugin in GitHub for displaying and commenting Jupyter Notebooks (see further details [here](../about/notebooks-technologies.md)).
@@ -54,6 +65,9 @@ Once reviewers recommend the notebook for publication, EiC will be notified by t
 
 ## Post-print
 EiC will lead publishing asking authors to proof-read the notebook and indicate any remaining typos, badly formed citations, awkward wording, etc.
+
+```{include} templates/editor-in-chief/eic-postprint-checklist.md
+```
 
 ## Publication
 EiC will announce the notebook in the EDS book social accounts and tag authors accounts according to their authorization.
