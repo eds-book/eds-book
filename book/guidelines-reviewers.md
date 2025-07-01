@@ -38,7 +38,8 @@ To review a notebook, we provide a review template (see below) with a checklist.
 The checklist will be available per reviewer within the first comment of the notebook REVIEW issue created by EiC.
 Additional comments are welcome on the same issue or directly to the notebook repo. 
 
-If reviewers do the latter, they will find a PR in the notebook repository where authors and reviewers carry out the discussion through ReviewNB, a third-party plugin in GitHub for displaying and commenting Jupyter Notebooks (see further details [here](#about-technologies)).
+If reviewers do the latter, they will find a PR in the notebook repository where authors and reviewers carry out the discussion through ReviewNB, a third-party plugin in GitHub for displaying and commenting Jupyter Notebooks (see further details [here](../about#reviewnb)).
+Alternatively, reviewers can inspect the preview version of the notebook in GitHub pages (URL indicated in the REVIEW issue).
 Reviewers can open issues in the notebook repo too and link the URL of the notebook REVIEW issue thread.
 This facilitates centralizing comments.
 All changes implemented by authors will be available in the `review` PR. 
