@@ -54,6 +54,7 @@
        bibliography:
         - references.bib
     ```
+  
 - Change the version in the cell `print('Notebook repository version: [version]')`
 
 # README 
@@ -78,11 +79,12 @@
     <img src="images/thumbnail.png" alt="thumbnail" width="500"/>
     </p>
     ```
-    
+
 # Validate preview
 - [ ] Commit and push changes to the `postprint` branch
 - [ ] Open a PR to the `main` branch with the title `postprint` and the description
 - [ ] Check the publish action in the Actions tab runs successfully
 - [ ] Validate the preview in GitHub pages at `https://eds-book.github.io/[repository name]/`
 - [ ] If OK, merge the PR to the `main` branch.
+
 ```
