@@ -33,4 +33,5 @@
 - [ ] Check the publish action in the Actions tab runs successfully
 - [ ] Validate the preview in GitHub pages at `https://eds-book.github.io/[repository name]/`
 - [ ] If OK, merge the PR to the `main` branch.
+
 ```
