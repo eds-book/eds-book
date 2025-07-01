@@ -66,6 +66,9 @@ Once reviewers recommend the notebook for publication, EiC will be notified by t
 ## Post-print
 EiC will lead publishing asking authors to proof-read the notebook and indicate any remaining typos, badly formed citations, awkward wording, etc.
 
+```{include} templates/editor-in-chief/eic-postprint-checklist.md
+```
+
 ## Publication
 EiC will announce the notebook in the EDS book social accounts and tag authors accounts according to their authorization.
 
