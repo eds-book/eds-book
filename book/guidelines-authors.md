@@ -32,18 +32,28 @@ After validating the notebook idea, a first draft of the notebook should be crea
 
 The repository templates are adapted from [2i2c hub-user-image-template](https://github.com/2i2c-org/hub-user-image-template). 
 The corresponding author should open a Pull Request to start editing the notebook and dependencies files. 
-Within each PR, a comment will be added containing "Test this PR on Binder" badge. 
+Within each PR, a comment will be added containing "Test this PR on Binder" badge.
+
+:::{warning} GitHub actions
+:class: simple
+Please do not modify the GitHub actions files inside the `.github/workflows` folder.
+These files are only edited by the Editor-in-Chief (EiC).
+:::
 
 Some general guidelines are:
-* Fill the information header according to your use case. Feel free to guide from previous published notebooks, see for instance the [IceNet notebook](https://edsbook.org/notebooks/gallery/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/notebook.html).
+* Fill the information header according to your use case. Feel free to guide from previous published notebooks, see for instance the [IceNet notebook](https://edsbook.org/ac327c3a-5264-40a2-8c6e-1e8d7c4b37ef/notebook).
 * Change the structure of the remaining sections of the notebook according to your preference.
   * We advise following the 10 rules of compelling notebooks provided by the EarthCube initiative available in their [Notebook Template](https://github.com/earthcube/NotebookTemplates/blob/main/EC_05_Template_Notebook_for_EarthCube_Long_Version.ipynb) (section `Data processing and analysis`).
 * For `python` packages, we suggest exploring the [Pangeo stack](https://pangeo.io/). The Pangeo community curates a wide diversity of environments in the `pangeo-docker-images` [repository](https://github.com/pangeo-data/pangeo-docker-images/tree/master/pangeo-notebook). 
   * For notebooks, we suggest using the `pangeo-notebook` conda environment available [here](https://github.com/pangeo-data/pangeo-docker-images/blob/master/pangeo-notebook/environment.yml). The environment can be installed in your system using `conda env create -f environment.yml`.
-* Test the notebook is working according to the Binder badge in the PR.
-* For notebooks showcasing deep learning models, the public Binder does not provide GPU support, so we suggest testing the notebook works with `cpu` when predicting from the pretrained models. 
+* Test the notebook is working according to the Binder badge in the PR. 
 
-When the minimal working version of the notebook is ready, authors should tag EiC in the PR with the latest Binder badge.
+:::{warning} GPU support
+:class: simple
+For notebooks showcasing deep learning models, the public Binder does not provide GPU support, so we suggest testing the notebook works with `cpu` when predicting from the pretrained models.
+:::
+
+When the minimal working version of the notebook is ready, authors should tag EiC in the PR with the latest Binder badge or notify EiC in the notebook idea issue.
 EiC will check how reproducible is the notebook and its feasibility for the reviewing stage. 
 
 After EiC's approval of the draft version of the notebook, the EiC will fork the notebook repository to the [eds-book](https://github.com/eds-book) organisation. 
@@ -67,7 +77,7 @@ Please contact the editor directly or in the REVIEW issue thread to inform possi
 Authors should address reviewers suggestions according to their relevance.
 Each reviewer is guided by a checklist which facilitate to evaluate the notebook.
 Reviewers are encouraged to make detailed comments directly to the notebook repo.
-To facilitate the conversation, EiC opens a `review` PR in the notebook repository where authors and reviewers carry out a detailed discussion through ReviewNB, a third-party plugin in GitHub for displaying and commenting Jupyter Notebooks (see further details [here](../about/notebooks-technologies.md)).
+To facilitate the conversation, EiC opens a `review` PR in the notebook repository where authors and reviewers carry out a detailed discussion through ReviewNB, a third-party plugin in GitHub for displaying and commenting Jupyter Notebooks (see further details [here](../about#reviewnb)).
 Authors should implement relevant changes in the notebook repository hosted in their personal GitHub account, and submit changes to the `review` branch created by EiC (for example, see [here](https://github.com/eds-book/67a1e320-7c47-4ea9-8df8-e868326bc90b/pull/6) a PR submitted from the author of the IceNet Python API notebook).
 EiC will merge changes into the `review` PR.
 The editor should ask reviewers to re-evaluate the notebook.
