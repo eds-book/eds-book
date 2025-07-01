@@ -6,6 +6,7 @@ The checklist template follows the suggested review criteria for [SciPy Proceedi
 :::
 
 ```markdown
+## Review checklist for [REVIEWER GITHUB HANDLE]
 *Please check off boxes as applicable, and elaborate in comments below. 
 Your review is not limited to these topics, as described in the reviewer guide*
 
@@ -17,7 +18,7 @@ Your review is not limited to these topics, as described in the reviewer guide*
 - [ ] I confirm that I read and will adhere to [Open Science Peer Review Oath](https://doi.org/10.12688/f1000research.5686.2) 
 
 ### General checks
-- [ ] **Notebook:** Does the preview version of the notebook render correctly in the browser?
+- [ ] **Notebook:** Does the notebook preview render correctly in the browser?
 - [ ] **Contribution and authorship:** Does the author list seem appropriate and complete (full name, affiliation, and GitHub/ORCID handle)?
 - [ ] **Scope and eligibility:** Does the submission contain an original and complete analysis according to the [theme](https://edsbook.org/contribute#themes) selected?
 
