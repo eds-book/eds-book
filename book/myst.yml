@@ -7,6 +7,8 @@ project:
   title: Environmental Data Science book
   short_title: EDS book
   abstract: Environmental Data Science book is a computational notebook community for open environmental data science.
+  description: |
+    EDS book is a community-driven project that aims to support and connect environmental scientists and practitioners to communicate their science through customisable interactive notebooks which benefit from a collaborative reviewing process.
   abbreviations:
     CoC: Code of Conduct
     EiC: Editor-in-Chief
