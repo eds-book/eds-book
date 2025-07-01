@@ -17,9 +17,9 @@ Your review is not limited to these topics, as described in the reviewer guide*
 - [ ] I confirm that I read and will adhere to [Open Science Peer Review Oath](https://doi.org/10.12688/f1000research.5686.2) 
 
 ### General checks
-- [ ] **Notebook:** Is the notebook file part of the PR?
+- [ ] **Notebook:** Does the preview version of the notebook render correctly in the browser?
 - [ ] **Contribution and authorship:** Does the author list seem appropriate and complete (full name, affiliation, and GitHub/ORCID handle)?
-- [ ] **Scope and eligibility:** Does the submission contain an original and complete analysis according to the [theme](pb-about-aimsscope) selected?
+- [ ] **Scope and eligibility:** Does the submission contain an original and complete analysis according to the [theme](https://edsbook.org/contribute#themes) selected?
 
 ### Reproducibility
 - [ ] Does the notebook run in a local environment?
@@ -41,7 +41,7 @@ Your review is not limited to these topics, as described in the reviewer guide*
 ### Other Requirements
 - [ ] All mentioned software should be formally and consistently cited wherever possible.
 - [ ] Acronyms should be spelled out upon first mention.
-- [ ] Licence conditions on images and figures must be respected (Creative Commons, etc.).
+- [ ] License conditions on images and figures must be respected (Creative Commons, etc.).
 
 ### Final approval (post-review)
 
