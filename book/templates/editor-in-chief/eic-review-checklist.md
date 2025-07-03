@@ -1,4 +1,4 @@
-(templates-eic-preparation-checklist)=
+(templates-eic-review-checklist)=
 
 ```markdown
 - [ ] Create and checkout a new branch `review`

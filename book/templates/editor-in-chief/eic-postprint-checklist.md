@@ -1,4 +1,4 @@
-(templates-eic-preparation-checklist)=
+(templates-eic-postprint-checklist)=
 
 ```markdown
 # Initial configurations
