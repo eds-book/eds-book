@@ -1,4 +1,4 @@
-(templates-eic-preparation-checklist)=
+(templates-eic-prereview-checklist)=
 
 ```markdown
 - [ ] Open a PRE-REVIEW issue
