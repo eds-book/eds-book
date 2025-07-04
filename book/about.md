@@ -1,7 +1,6 @@
 (about)=
 
 # About
-
 Notebooks has been an excellent tool for prototyping and writing examples to showcase computational analyses [@Rule2019].
 EDS book complements the science and methodological development of academic journals by translating research outputs into FAIR notebooks using open infrastructure and open review ([](#notebook-cycle)).
 
@@ -13,17 +12,14 @@ The EDS book community supports and connects environmental scientists and practi
 ```
 
 # Vision
-
 Environmental scientists work collaboratively to demonstrate and communicate their science through FAIR executable notebooks and have gained significant skills to publish in notebook-based scholarly publication systems.
 
 # Mission
-
 Educate and leverage good scientific software and data management practices among environmental scientists through peer-reviewed findable, accessible, interoperable and reusable (FAIR) executable notebooks.
 
 In addition to the book, our goal is to build a computational notebook community putting open science into practice towards collaborative, reusable and transparent environmental research.
 
 # Who is the book for?
-
 While the scientific community is broad, we think the target audience of this book is:
 
 * Researchers with some background in environmental science interested in AI and data science methods.
@@ -33,7 +29,6 @@ While the scientific community is broad, we think the target audience of this bo
 For more information on who can contribute, please see [the contributors section](./contribute.md).
 
 # Why EDS book notebooks?
-
 EDS book notebooks contributes to open, collaborative and transparent Environmental science. 
 A shared goal among our community-driven notebooks is to increase awareness and demonstrate open-source software developments and open data suited to Environmental science. 
 
@@ -59,7 +54,7 @@ Furthermore, we contribute in building and connecting the international communit
 Since the official launch of EDS book in December 2021, the community has successfully published numerous notebooks covering exploration, preprocessing and modelling from environmental datasets.
 
 (about-technologies)=
-# Technologies 
+# Technologies
 This section indicates the main technologies stack for EDS book and published notebooks. 
 We largely use and contribute to open infrastructure and open-source software to provide a collaborative and reproducible environment for our community.
 
@@ -114,7 +109,6 @@ The main features of ReviewNB according to its [official documentation](https://
 For more about ReviewNB, see in https://blog.reviewnb.com/.
 
 ## RoHub
-
 RoHub [@rohub-2018] is a Research Object management platform that enables researchers to collaboratively manage, share and preserve their research work (data, software, workflows, models, presentations, videos, articles, etc.). 
 RoHub implements the full RO model and paradigm: resources associated to a particular research work are aggregated into a single FAIR digital object, and metadata relevant for understanding and interpreting the content is represented as semantic metadata that are user and machine-readable.
 All EDS book notebooks are findable in RoHub.
@@ -123,12 +117,11 @@ RoHub allows tracking all research life cycle and derivative work of EDS book no
 For more about RoHub, see in https://reliance.rohub.org/.
 
 # Outreach
-
 :::{note} 🎤 Do you have a presentation or publication to add?
 :icon: false
 
 EDS book supports the community promoting or integrating the resource in new ideas. Please [visit our section of communications](https://github.com/eds-book/eds-book/tree/main/communications/promotion-pack) for accessing some resources to promote EDS book at external events and conferences.
-...
+:::
 
 ## Publications
 EDS book has been introduced and published in peer-reviewed journals and media.
@@ -140,7 +133,6 @@ EDS book has been introduced and published in peer-reviewed journals and media.
 | Research Ideas and Outcomes   | 2023-09 | Anne Fouilloux (lead author), Alejandro Coca-Castro, et al.             | Research paper   | [FAIR Research Objects for realising Open Science with the EOSC project RELIANCE](https://doi.org/10.3897/rio.9.e108765) |
 
 ## Presentations
-
 EDS book has been presented at several events, including:
 
 | Event                                                                | Date    | Presenter                              | Format    | Title                                                                                                                                                                  |

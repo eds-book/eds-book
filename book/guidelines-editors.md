@@ -1,4 +1,4 @@
-(pb-guidelines-editors)=
+(guidelines-editors)=
 
 # Guide for Editors
 Welcome to the guide for notebooks editors of the EDS book! 
@@ -49,6 +49,7 @@ When reviewers are satisfied with the improvements, the editor asks to confirm t
 Then the editor pings EiC to inform the notebook is ready to the post-print stage.
 
 ## Expectations on EDS book editors
+
 ### Responding to editorial assignments
 We ask that editors respond their availability to edit a new submission in a timely fashion (within **1 week**).
 

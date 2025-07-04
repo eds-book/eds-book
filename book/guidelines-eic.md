@@ -1,4 +1,4 @@
-(pb-guidelines-eic)=
+(guidelines-eic)=
 
 # Guide for Editor-in-Chief
 Welcome to the guide for notebooks EiC of the EDS book! 
