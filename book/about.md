@@ -128,7 +128,7 @@ For more about RoHub, see in https://reliance.rohub.org/.
 :icon: false
 
 EDS book supports the community promoting or integrating the resource in new ideas. Please [visit our section of communications](https://github.com/eds-book/eds-book/tree/main/communications/promotion-pack) for accessing some resources to promote EDS book at external events and conferences.
-...
+:::
 
 ## Publications
 EDS book has been introduced and published in peer-reviewed journals and media.
