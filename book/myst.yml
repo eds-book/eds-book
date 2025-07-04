@@ -79,7 +79,7 @@ project:
   exports:
     - format: cff
       type: software
-      version: v2025.7.0
+      version: v2025.7.1
       license: MIT
       license-url: https://opensource.org/license/MIT
       identifiers:
