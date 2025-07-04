@@ -1,3 +1,4 @@
+(cite)=
 
 # Cite
 The narrative content or graphical objects of _EDS book_ are licensed for free and open consumption under the following license: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 

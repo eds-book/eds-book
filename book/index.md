@@ -32,7 +32,7 @@ Here you will find:
 Contributions are welcome, and they are greatly appreciated! 
 Every little bit helps, and credit will always be given. 
 
-For our notebooks[^license], you can contribute as an [authors](#pb-guidelines-authors), [editor](#pb-guidelines-editors), [editor-in-chief](#pb-guidelines-eic), [reviewer](#pb-guidelines-reviewers), or simply a [community](#pb-guidelines-community) member.
+For our notebooks[^license], you can contribute as an [authors](#guidelines-authors), [editor](#guidelines-editors), [editor-in-chief](#guidelines-eic), [reviewer](#guidelines-reviewers), or simply a [community](#guidelines-community) member.
 
 Read our [Contributor's Guide](https://github.com/eds-book/eds-book/blob/main/CONTRIBUTING.md) for further details on other types of contributions and our [Code of Conduct](https://github.com/eds-book/eds-book/blob/main/CODE_OF_CONDUCT.md) for expected and unacceptable behaviours.
 
@@ -58,7 +58,7 @@ Join our community for updates 📬
 
 # Our notebooks
 We have a wide diversity of executable notebooks, all of them following FAIR principles for research software (FAIR4RS) [@Barker2022-FAIR4RS]. 
-Visit our [Gallery](#nb-gallery) to access and navigate our community-led published notebooks.
+Visit our [Gallery](#gallery) to access and navigate our community-led published notebooks.
 
 ::: {edsbook-notebooks-mini}
 :::

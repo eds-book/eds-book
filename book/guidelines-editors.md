@@ -1,4 +1,4 @@
-(pb-guidelines-editors)=
+(guidelines-editors)=
 
 # Guide for Editors
 Welcome to the guide for notebooks editors of the EDS book! 

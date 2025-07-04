@@ -1,4 +1,4 @@
-(nb-gallery)=
+(gallery)=
 
 # Gallery
 
