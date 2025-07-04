@@ -5,7 +5,7 @@ abstract: >-
   environmental data science.
 title: Environmental Data Science book
 authors:
-  - names: EDS book community
+  - name: EDS book community
 identifiers:
   - description: >-
       The concept DOI for the collection containing all versions of the Citation
@@ -24,4 +24,4 @@ license: MIT
 license-url: https://opensource.org/license/MIT
 repository: https://github.com/eds-book/eds-book
 type: software
-version: v2025.7.0
+version: v2025.7.1
