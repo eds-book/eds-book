@@ -57,7 +57,6 @@ Join our community for updates 📬
 +++ { "kind": "justified"}
 
 # Our notebooks
-
 We have a wide diversity of executable notebooks, all of them following FAIR principles for research software (FAIR4RS) [@Barker2022-FAIR4RS]. 
 Visit our [Gallery](#nb-gallery) to access and navigate our community-led published notebooks.
 
@@ -67,7 +66,6 @@ Visit our [Gallery](#nb-gallery) to access and navigate our community-led publis
 +++ { "kind": "justified"}
 
 # Our contributors
-
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable, learning and fulfilling experience. 
 
 ```{figure} images/contributors.gif
@@ -95,7 +93,6 @@ Gaining this hands-on experience whilst learning about interesting environmental
 > -- Anne Fouilloux (she/her), Contributor & Maintainer
 
 # Cite EDS book
-
 To cite or read more references about the EDS book project and related notebooks, see [](./cite.md).
 
 > 

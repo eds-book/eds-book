@@ -1,7 +1,6 @@
 (contribute)=
 
 # Contribute
-
 Contributions are welcome, and they are greatly appreciated! 
 Every little bit helps, and credit will always be given.
 
@@ -70,7 +69,6 @@ Read/share content, occasionally raise errors such as typos and bugs and fix the
 ## Notebooks
 
 ### Scope
-
 We consider submissions from all areas of environmental science. This includes (but it is not restricted to):
 * introducing relevant environmental datasets irrespective of their modality (image, labels, points, shapes, surface text).
 * describing the outputs of a machine learning/computer vision model suited to our understanding of Planet Earth.

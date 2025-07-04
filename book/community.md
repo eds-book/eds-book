@@ -3,7 +3,6 @@
 # Community
 
 ## Communication channels
-
 We have a number of communication channels to support the community. You can find us on:
 
 ### Synchronous communication
@@ -19,7 +18,6 @@ If you're looking for asynchronous support or chat with the EDS book community, 
 * Open an [issue to report bugs or request features](https://github.com/eds-book/eds-book/issues/new/choose).
 
 ## Open Research Communities
-
 We collaborate and amplify the work of other open research communities below.
 
 - **Pangeo**: an international community promoting open, reproducible, and scalable big data geoscience. This community provides documentation, develops and maintains software, and deploys computing infrastructure to make geoscience research and programming easier. Find out more about their work at [https://pangeo.io](https://pangeo.io/).
