@@ -469,6 +469,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "thinkswhat",
+      "name": "Lucky J. YANG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113912876?v=4",
+      "profile": "https://thinkswhat.github.io",
+      "contributions": [
+        "blog",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
