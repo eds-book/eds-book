@@ -526,6 +526,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "kroppheather",
+      "name": "Heather Kropp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12126717?v=4",
+      "profile": "https://github.com/kroppheather",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
