@@ -497,6 +497,16 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "abnerbog",
+      "name": "Abner Bogan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28936967?v=4",
+      "profile": "https://www.cuahsi.org/about/our-team",
+      "contributions": [
+        "blog",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
