@@ -507,6 +507,16 @@
         "blog",
         "code"
       ]
+    },
+    {
+      "login": "lindsayplatt",
+      "name": "Lindsay (Carr) Platt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13220910?v=4",
+      "profile": "https://github.com/lindsayplatt",
+      "contributions": [
+        "blog",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
