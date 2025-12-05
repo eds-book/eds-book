@@ -517,6 +517,15 @@
         "blog",
         "code"
       ]
+    },
+    {
+      "login": "nquarder",
+      "name": "Nathan Quarderer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16786791?v=4",
+      "profile": "https://github.com/nquarder",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
